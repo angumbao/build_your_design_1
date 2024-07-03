@@ -24,14 +24,13 @@ html {
   background: url("./assets/Image.jpg");
   background-size: cover;
   box-shadow: inset 0 0 0 1000px rgba(47, 24, 147, 0.6);
+  font-family: DM Sans, sans-serif;
 }
 
 /* -------------------------------------------Nav Styles-------------------------------------------------- */
 nav {
-  padding-top: 20px;
-  padding-bottom: 20px;
-  margin-top: 30px;
-  margin-bottom: 30px;
+  padding-top: 50px;
+  padding-bottom: 50px;
 }
 
 .navLinkContainer {
